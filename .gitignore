@@ -1,0 +1,7 @@
+*.project
+*.settings
+*.classpath
+*.prefs
+*.class
+sonar.bat
+sonar
